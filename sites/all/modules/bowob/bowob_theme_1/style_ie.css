@@ -1,0 +1,17 @@
+#bowob_block {
+  z-index: 71;
+}
+
+#bowob {
+  z-index: 71;
+}
+
+#bowob_send_input_text {
+  padding: 3px 3px 5px 25px !important;
+  background-position: -226px -1px;
+}
+
+.bowob_receive_text_messages_separator {
+  margin-top: 4px !important;
+  margin-bottom: 4px !important;
+}

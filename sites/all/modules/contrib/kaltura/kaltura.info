@@ -1,0 +1,14 @@
+; $Id: kaltura.info,v 1.1.2.3 2009/01/14 13:00:50 kaltura Exp $: kaltura
+name = Kaltura
+package = Kaltura Media Management
+project = Kaltura
+core = 6.x
+description = Infrastructure for managing video, audio and photos - allows to upload and import media files, manage them, and even allow users to collaboratively add and remix media 
+
+
+; Information added by drupal.org packaging script on 2009-01-14
+version = "6.x-1.4"
+core = "6.x"
+project = "kaltura"
+datestamp = "1231941649"
+

@@ -1,0 +1,14 @@
+; $Id: sms_clickatell.info $
+;
+; SMS Framework gateway module for Clickatell (www.clickatell.com)
+;
+; To make inbound work you must configure clickatell to send the messages to a
+; URL: http(s)://yourhost.example.com/sms/clickatell/receiver
+;
+; Please also read the comment header in sms_clickatell.module.
+;
+name = "Clickatell"
+description = "Allows the SMS Framework to use Clickatell as a gateway."
+package = SMS Framework
+dependencies[] = sms
+core = 6.x

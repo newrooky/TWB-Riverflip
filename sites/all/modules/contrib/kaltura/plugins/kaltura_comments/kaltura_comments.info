@@ -1,0 +1,12 @@
+; $Id: kaltura_comments.info,v 1.1.2.3 2009/01/14 13:23:09 kaltura Exp $: kaltura_comments
+name = Kaltura Media Comments
+package = Kaltura Media Management
+core = 6.x
+dependencies[] = kaltura
+description = enable users to post video comments in the drupal comments system
+; Information added by drupal.org packaging script on 2009-01-14
+version = "6.x-1.4"
+core = "6.x"
+project = "kaltura"
+datestamp = "1231941649"
+

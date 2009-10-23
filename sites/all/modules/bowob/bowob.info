@@ -1,0 +1,12 @@
+; $Id: bowob.info,v 1.33 2009/10/11 12:22:41 bowob Exp $
+name = BoWoB
+description = Chat Drupal Integrated
+package = Chat
+dependencies[] = user
+
+; Information added by drupal.org packaging script on 2009-10-11
+version = "6.x-8.9"
+core = "6.x"
+project = "bowob"
+datestamp = "1255263906"
+

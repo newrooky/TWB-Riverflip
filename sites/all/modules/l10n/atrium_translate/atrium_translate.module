@@ -1,0 +1,26 @@
+<?php 
+// *Id*
+/**
+ * @file
+ *   Atrium translate module
+ *   
+ * Handles language files directly downloading them from the server when available
+ */
+
+
+/**
+ * Implementation of hook l10n_update()
+ */
+function atrium_translate_l10n_update() {
+  module_load_include('inc', 'atrium_translate');
+
+  $projects['atrium'] = array(
+    'name' => 'atrium',
+    'info' => array(
+      'version' => ATRIUM_L10N_VERSION,
+      'translate status url' => ATRIUM_L10N_SERVER,
+    ),
+  );
+
+  return $projects;
+}

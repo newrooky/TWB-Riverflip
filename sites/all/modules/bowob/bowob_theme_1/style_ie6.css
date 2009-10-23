@@ -1,0 +1,140 @@
+#bowob {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 71;
+  height: 25px;
+}
+
+#bowob_block {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 71;
+  height: 25px;
+}
+
+#bowob_bar {
+  position: absolute;
+  top: 0px;
+  left: 15px;
+  bottom: auto;
+}
+
+#bowob_bar_background {
+  position: absolute;
+  top: 0px;
+  left: 14px;
+  bottom: auto;
+}
+
+#bowob_window {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: auto;
+}
+
+#bowob_head_window {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: auto;
+}
+
+#bowob_head_window_head_text {
+  margin-left: 4px !important;
+}
+
+.bowob_head_window_head_buttons_minimize_normal_text {
+  margin-right: 2px !important;
+  margin-left: 2px !important;
+}
+
+.bowob_head_window_head_buttons_minimize_press_text {
+  margin-right: 2px !important;
+  margin-left: 2px !important;
+}
+
+.bowob_head_window_head_buttons_minimize_over_text {
+  margin-right: 2px !important;
+  margin-left: 2px !important;
+}
+
+.bowob_alert_buttons_close_normal_text {
+  margin-right: 3px !important;
+  margin-left: 3px !important;
+}
+
+.bowob_alert_buttons_close_press_text {
+  margin-right: 3px !important;
+  margin-left: 3px !important;
+}
+
+.bowob_alert_buttons_close_over_text {
+  margin-right: 3px !important;
+  margin-left: 3px !important;
+}
+
+.bowob_receive_text_messages_buttons_close_normal_text {
+  margin-right: 3px !important;
+  margin-left: 3px !important;
+}
+
+.bowob_receive_text_messages_buttons_close_press_text {
+  margin-right: 3px !important;
+  margin-left: 3px !important;
+}
+
+.bowob_receive_text_messages_buttons_close_over_text {
+  margin-right: 3px !important;
+  margin-left: 3px !important;
+}
+
+.bowob_receive_text_messages_buttons_minimize_normal_text {
+  margin-left: 2px !important;
+  margin-right: 3px !important;
+}
+
+.bowob_receive_text_messages_buttons_minimize_press_text {
+  margin-left: 2px !important;
+  margin-right: 3px !important;
+}
+
+.bowob_receive_text_messages_buttons_minimize_over_text {
+  margin-left: 2px !important;
+  margin-right: 3px !important;
+}
+
+.bowob_receive_text_messages_separator {
+  margin-top: 4px !important;
+  margin-bottom: 4px !important;
+}
+
+.bowob_users_user_normal {
+  height: 12px;
+}
+
+.bowob_users_user_press {
+  height: 12px;
+}
+
+.bowob_users_user_over {
+  height: 12px;
+}
+
+.bowob_users_admin_normal {
+  height: 12px;
+}
+
+.bowob_users_admin_press {
+  height: 12px;
+}
+
+.bowob_users_admin_over {
+  height: 12px;
+}
+
+bowob_users_user_me {
+  height: 12px;
+}

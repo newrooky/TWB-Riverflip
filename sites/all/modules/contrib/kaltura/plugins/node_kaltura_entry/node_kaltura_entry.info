@@ -1,0 +1,12 @@
+; $Id: node_kaltura_entry.info,v 1.1.2.3 2009/01/14 13:29:14 kaltura Exp $: node_kaltura_entry
+name = Kaltura Media Node
+package = Kaltura Media Management
+core = 6.x
+dependencies[] = kaltura
+description = Upload and view video audio and images, storing each media item as a node.
+; Information added by drupal.org packaging script on 2009-01-14
+version = "6.x-1.4"
+core = "6.x"
+project = "kaltura"
+datestamp = "1231941649"
+

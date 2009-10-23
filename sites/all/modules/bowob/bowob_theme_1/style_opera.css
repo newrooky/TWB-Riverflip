@@ -1,0 +1,79 @@
+#bowob_head_window_body_box_text {
+  float: left;
+}
+
+.bowob_users_user_normal_text {
+  float: left;
+}
+
+.bowob_users_user_press_text {
+  float: left;
+}
+
+.bowob_users_user_over_text {
+  float: left;
+}
+
+.bowob_users_admin_normal_text {
+  float: left;
+}
+
+.bowob_users_admin_press_text {
+  float: left;
+}
+
+.bowob_users_admin_over_text {
+  float: left;
+}
+
+.bowob_users_user_me_text {
+  float: left;
+}
+
+.bowob_receive_text_messages_me {
+  float: left;
+}
+
+.bowob_receive_text_messages_me_more {
+  float: left;
+}
+
+.bowob_receive_text_messages_user {
+  float: left;
+}
+
+.bowob_receive_text_messages_user_more {
+  float: left;
+}
+
+.bowob_receive_text_messages_admin {
+  float: left;
+}
+
+.bowob_receive_text_messages_admin_more {
+  float: left;
+}
+
+.bowob_receive_text_messages_action {
+  float: left;
+}
+
+.bowob_admin_content_list_normal_text {
+  float: left;
+}
+
+.bowob_admin_content_list_press_text {
+  float: left;
+}
+
+.bowob_admin_content_list_over_text {
+  float: left;
+}
+
+.bowob_admin_content_editor_text7_text {
+  float: left;
+}
+
+#bowob_send_input_text {
+  box-sizing: content-box;
+}
